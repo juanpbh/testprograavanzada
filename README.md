@@ -1,2 +1,2 @@
 # testprograavanzada
-repositorio de pruebas para curso programacion avanzada
+Repositorio de pruebas para curso programacion avanzada
